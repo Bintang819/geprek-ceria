@@ -5,7 +5,7 @@ const budgetInput = document.getElementById('budget');
 const aiResult = document.getElementById('ai-result');
 const aiMessage = document.getElementById('ai-message');
 
-
+aiForm.addEventListener('submit', (e) => {
         e.preventDefault(); 
         
         const lapar = laparLevel.value;
@@ -23,4 +23,4 @@ const aiMessage = document.getElementById('ai-message');
         void aiResult.offsetWidth; 
         aiResult.classList.add('animate-fade-in');
     });
-}
+
