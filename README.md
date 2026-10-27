@@ -63,10 +63,10 @@ Klik Pesan via WhatsApp untuk meneruskan rincian pesanan langsung ke admin usaha
 
 Nama Lengkap: Debby Ramadhani
 
-Kelas: X / XI / XII (Isi sesuai kelas Anda)
+Kelas:XI
 
-Jurusan: Rekayasa Perangkat Lunak / TIK (Isi sesuai jurusan Anda)
+Jurusan:Desain Komunikasi Visual
 
-Asal Sekolah: SMA / SMK (Isi sesuai nama sekolah Anda)
+Asal Sekolah:SMKN 1 JOMBANG
 
 Tahun Pelatihan: 2026
